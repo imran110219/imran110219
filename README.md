@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sadmansobhan.showwcase.com/](https://sadmansobhan.showwcase.com/)
 
-- 📝 I regularly write articles on [https://medium.com/%E0%A6%97%E0%A6%A3%E0%A6%95%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0](https://medium.com/%E0%A6%97%E0%A6%A3%E0%A6%95%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0)
+- 📝 I regularly write articles on [[https://medium.com/@imran110219](https://medium.com/@imran110219)](https://medium.com/@imran110219)
 
 - 💬 Ask me about **Java**
 
