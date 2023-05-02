@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://sadmansobhan.showwcase.com/](https://sadmansobhan.showwcase.com/)
+- 👨‍💻 All of my projects are available at [Sadman Sobhan](https://sadmansobhan.showwcase.com/)
 
-- 📝 I regularly write articles on [[https://medium.com/@imran110219](https://medium.com/@imran110219)](https://medium.com/@imran110219)
+- 📝 I regularly write articles on [Medium](https://medium.com/@imran110219)
 
 - 💬 Ask me about **Java**
 
