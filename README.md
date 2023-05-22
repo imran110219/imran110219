@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@imran110219)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**, **Spring**
 
 - 📫 How to reach me **imran110219@gmail.com**
 
