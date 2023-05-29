@@ -17,6 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+1. [ডিপেন্ডেন্সি ইনজেকশন](https://medium.com/গণকযন্ত্র/ডিপেন্ডেন্সি-ইনজেকশন-7f220c965cf5)
+2. [সিঙ্গেলটন প্যাটার্ন](https://medium.com/গণকযন্ত্র/সিঙ্গেলটন-প্যাটার্ন-1526a0def3db)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
