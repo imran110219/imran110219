@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imran110219" alt="imran110219" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Software Architecture**
 
 - 👨‍💻 All of my projects are available at [Sadman Sobhan](https://sadmansobhan.showwcase.com/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@imran110219)
 
-- 💬 Ask me about **Java**, **Spring**
+- 💬 Ask me about **Java**, **Spring**, **Postgres**
 
 - 📫 How to reach me **imran110219@gmail.com**
 
