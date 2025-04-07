@@ -1,8 +1,7 @@
 <h1 align="center">Hello👋, I'm Sadman Sobhan</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
-
+<h3 align="center">Software Architecture Enthusiast 🇧🇩</h3>
+<p align="center">✊🏾 <strong>From the river to the sea, Palestine will be free 🇵🇸</strong> ✊🏾</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran110219&label=Profile%20views&color=0e75b6&style=flat" alt="imran110219" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imran110219" alt="imran110219" /></a> </p>
 
 - 🌱 I’m currently learning **Software Architecture**
