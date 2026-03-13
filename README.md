@@ -119,7 +119,7 @@ PostgreSQL • Redis • MySQL
 
 ## 🌐 Portfolio
 
-https://sadmansobhan.showwcase.com
+https://sadmansobhan.com
 
 ---
 
