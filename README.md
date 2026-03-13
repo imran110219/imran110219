@@ -76,11 +76,11 @@ PostgreSQL • Redis • MySQL
 ## ✍️ Engineering Articles
 
 <!-- BLOG-POST-LIST:START -->
-1. ডিপেন্ডেন্সি ইনজেকশন  
-2. সিঙ্গেলটন প্যাটার্ন  
-3. অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং  
-4. ডিজাইন প্যাটার্ন  
-5. সলিড প্রিন্সিপাল  
+- [**DevOps Is a Culture Problem, Not a Tool Problem**](https://medium.com/@imran110219/devops-is-a-culture-problem-not-a-tool-problem-94e5f3595f7a)
+
+- [**The Difference Between Coding and Engineering**](https://medium.com/@imran110219/the-difference-between-coding-and-engineering-61729862a7a6)
+  
+- [**Why Not All Juniors Need the Same Mentorship**](https://medium.com/@imran110219/why-not-all-juniors-need-the-same-mentorship-a1d158ec4928)
 <!-- BLOG-POST-LIST:END -->
 
 ---
