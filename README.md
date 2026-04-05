@@ -59,14 +59,14 @@ Automation tools for server provisioning, Docker stack management, monitoring & 
 
 ## ⭐ Featured Projects
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=imran110219&repo=stackctl)](https://github.com/imran110219/stackctl)
+[![stackctl](https://img.shields.io/badge/stackctl-Docker%20Stack%20Manager-0f6e56?style=flat-square&logo=github)](https://github.com/imran110219/stackctl)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imran110219&show_icons=true&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imran110219&theme=github_dark"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imran110219&theme=github-dark"/>
 </p>
 
