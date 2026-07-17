@@ -50,6 +50,8 @@ Automation tools for server provisioning, Docker stack management, monitoring & 
 ## ✍️ Engineering Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [**What Changed When I Started Thinking Like a Senior Engineer**](https://medium.com/@imran110219/what-changed-when-i-started-thinking-like-a-senior-engineer-a69a1d0c0f01)
+- [**10 Spring Boot Mistakes That Look Fine Until Production**](https://medium.com/@imran110219/10-spring-boot-mistakes-that-look-fine-until-production-97dbed1eb3a5)
 - [**DevOps Is a Culture Problem, Not a Tool Problem**](https://medium.com/@imran110219/devops-is-a-culture-problem-not-a-tool-problem-94e5f3595f7a)
 - [**The Difference Between Coding and Engineering**](https://medium.com/@imran110219/the-difference-between-coding-and-engineering-61729862a7a6)
 - [**Why Not All Juniors Need the Same Mentorship**](https://medium.com/@imran110219/why-not-all-juniors-need-the-same-mentorship-a1d158ec4928)
